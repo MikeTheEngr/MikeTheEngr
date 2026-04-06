@@ -123,13 +123,12 @@
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=MikeTheEngr&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![GitHub Stats](https://ghstats.dev/api/card?username=MikeTheEngr&theme=dark)
 
-![](https://nirzak-streak-stats.vercel.app/?user=MikeTheEngr&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MikeTheEngr&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Sparkline](https://ghstats.dev/api/sparkline?username=MikeTheEngr)
 
 </div>
+
 ---
 
 ## 🏆 GitHub Trophies
