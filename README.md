@@ -153,9 +153,20 @@
 
 ### 🔝 Top Contributed Repos
 
-- [Repo 1](https://github.com/MikeTheEngr/TULKON-V1) ⭐ 100
-- [Repo 2](https://github.com/MikeTheEngr/PHISHING-DETECTION-SYSTEM-) ⭐ 85
-- [Repo 3](https://github.com/MikeTheEngr/Repo3) ⭐ 50
+<div align="center" style="border: 2px solid #1f2937; border-radius: 12px; padding: 20px; max-width: 900px; background-color: #111827;">
+
+<p style="color: #fff; font-size: 14px; margin-bottom: 10px;">
+Here are some of the repositories I’ve contributed to the most. Click the repo name to check it out!
+</p>
+
+<ul style="list-style-type: none; padding-left: 0; color: #fff; font-size: 16px;">
+  <li>⭐ <a href="https://github.com/MikeTheEngr/Repo1" style="color: #3b82f6;">Repo 1</a> – Short description about this project</li>
+  <li>⭐ <a href="https://github.com/MikeTheEngr/Repo2" style="color: #3b82f6;">Repo 2</a> – Short description about this project</li>
+  <li>⭐ <a href="https://github.com/MikeTheEngr/Repo3" style="color: #3b82f6;">Repo 3</a> – Short description about this project</li>
+</ul>
+
+</div>
+
 
 ---
 
