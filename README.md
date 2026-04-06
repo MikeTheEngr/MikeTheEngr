@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/MikeTheEngr/MikeTheEngr/main/MIkeTheEngrr.gif" alt="Coding GIF" style="width:100%; max-width:none; height:auto;" />
+<!-- Full-Screen Width GIF Hero -->
+<img src="https://raw.githubusercontent.com/MikeTheEngr/MikeTheEngr/main/MIkeTheEngrr.gif" alt="Coding GIF" style="width:100vw; height:auto;" />
 
 </div>
 ---
