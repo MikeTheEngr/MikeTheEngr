@@ -10,9 +10,9 @@
 
 **Full-Stack Developer | AI Engineer**
 
-👨🏼‍💻 Passionate about building efficient, scalable solutions to real-world problems  
-🔭 Currently working on: **TULKON** (stay tuned 👀)  
-👯 Open to collaborating on impactful projects  
+👨🏼‍💻 Passionate about building efficient, scalable solutions to real-world problems.
+
+I'm Currently working on: **TULKON** the very first of its kind (stay tuned 👀) and Open to collaborating on impactful projects.  
 🗒️ Side note: I build solutions for fun.
 
 ---
