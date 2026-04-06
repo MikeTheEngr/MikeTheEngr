@@ -121,11 +121,15 @@
 ## 📊 GitHub Stats
 
 
+## 📊 GitHub Stats
+
 <div align="center">
 
-![GitHub Stats](https://ghstats.dev/api/card?username=MikeTheEngr&theme=dark)
+<!-- Full-width GHStats card -->
+<img src="https://ghstats.dev/api/card?username=MikeTheEngr&theme=dark" alt="GitHub Stats" style="width:100%; max-width:1200px; height:auto;" />
 
-![Sparkline](https://ghstats.dev/api/sparkline?username=MikeTheEngr)
+<!-- Activity sparkline -->
+<img src="https://ghstats.dev/api/sparkline?username=MikeTheEngr&theme=dark" alt="GitHub Activity" style="width:100%; max-width:1200px; height:auto;" />
 
 </div>
 
