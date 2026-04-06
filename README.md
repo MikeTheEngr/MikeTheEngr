@@ -136,12 +136,8 @@
 ### Quote of the day
 
 <div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
-
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&quoteColor=00ff88&authorColor=00cc66&bg_color=000000&border_color=00cc66" />
 </div>
-
-
 
 ---
 
