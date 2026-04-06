@@ -136,10 +136,11 @@
 ### Quote of the day
 
 <div align="center">
-     
-  <img src="./quote-card.svg" width="600"/>
-  
+
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
+
 </div>
+
 
 
 ---
