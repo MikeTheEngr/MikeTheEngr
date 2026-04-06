@@ -1,9 +1,7 @@
 <div align="center">
 
-<!-- Max-Stretched GIF Hero (Clickable Full-Size) -->
-<a href="https://raw.githubusercontent.com/MikeTheEngr/MikeTheEngr/main/MIkeTheEngrr.gif" target="_blank">
-  <img src="https://raw.githubusercontent.com/MikeTheEngr/MikeTheEngr/main/MIkeTheEngrr.gif" alt="Coding GIF" style="width:100%; max-width:none; height:auto;" />
-</a>
+<!-- Full-Screen Width GIF Hero -->
+<img src="https://raw.githubusercontent.com/MikeTheEngr/MikeTheEngr/main/MIkeTheEngrr.gif" alt="Coding GIF" style="width:100vw; height:auto;" />
 
 </div>
 ---
