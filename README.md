@@ -137,8 +137,8 @@
 
 <div align="center">
   <img 
-    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=false&quoteColor=e6fff2&authorColor=99d6b3&bg_color=000000" 
-    style="max-width: 480px; width: 100%; height: auto;"
+    src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&border=false&quoteColor=e6fff2&authorColor=99d6b3&bg_color=000000" 
+    width="100%" 
   />
 </div>
 
