@@ -154,7 +154,7 @@
 ### 🔝 Top Contributed Repos
 
 - [Repo 1](https://github.com/MikeTheEngr/TULKON-V1) ⭐ 100
-- [Repo 2](https://github.com/MikeTheEngr/Repo2) ⭐ 85
+- [Repo 2](https://github.com/MikeTheEngr/PHISHING-DETECTION-SYSTEM-) ⭐ 85
 - [Repo 3](https://github.com/MikeTheEngr/Repo3) ⭐ 50
 
 ---
