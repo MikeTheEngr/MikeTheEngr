@@ -120,13 +120,14 @@
 
 ## 📊 GitHub Stats
 
+
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=MikeTheEngr&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=MikeTheEngr&theme=dark)
 
-![](https://nirzak-streak-stats.vercel.app/?user=MikeTheEngr&theme=dark&hide_border=false)
+![](https://nirzak-streak-stats.vercel.app/?user=MikeTheEngr&theme=dark)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MikeTheEngr&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MikeTheEngr&theme=dark&layout=compact)
 
 </div>
 
