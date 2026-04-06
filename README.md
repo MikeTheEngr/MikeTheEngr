@@ -6,11 +6,11 @@
 
 ---
 
-## 💫 About Me
+## About Me
 
 **Full-Stack Developer | AI Engineer**
 
-⚡ Passionate about building efficient, scalable solutions to real-world problems  
+👨🏼‍💻 Passionate about building efficient, scalable solutions to real-world problems  
 🔭 Currently working on: **TULKON** (stay tuned 👀)  
 👯 Open to collaborating on impactful projects  
 🗒️ Side note: I build solutions for fun.
