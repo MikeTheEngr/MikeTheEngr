@@ -153,26 +153,30 @@
 
 ### 🔝 Top Contributed Repos
 
-<div align="center" style="max-width: 900px; padding: 20px; border-radius: 15px; 
-     background: #111827; 
-     border: 4px solid;
-     border-image-slice: 1;
-     border-width: 4px;
-     border-image-source: linear-gradient(45deg, #3b82f6, #8b5cf6, #ec4899, #f59e0b); 
-     box-shadow: 0 4px 15px rgba(0,0,0,0.4);">
+<div align="center" style="max-width: 900px; display: flex; gap: 15px; justify-content: center; flex-wrap: wrap;">
 
-<p style="color: #fff; font-size: 14px; margin-bottom: 15px;">
-Here are some of the repositories I’ve contributed to the most. Click the repo name to check them out!
-</p>
-
-<ul style="list-style-type: none; padding-left: 0; color: #fff; font-size: 16px;">
-  <li>⭐ <a href="https://github.com/MikeTheEngr/Repo1" style="color: #3b82f6;">Repo 1</a> – Brief description about this project</li>
-  <li>⭐ <a href="https://github.com/MikeTheEngr/Repo2" style="color: #8b5cf6;">Repo 2</a> – Brief description about this project</li>
-  <li>⭐ <a href="https://github.com/MikeTheEngr/Repo3" style="color: #f59e0b;">Repo 3</a> – Brief description about this project</li>
-</ul>
-
+<!-- Repo Card 1 -->
+<div style="flex: 1 1 250px; background: #1f2937; border-radius: 12px; padding: 15px; 
+            border: 2px solid #3b82f6; box-shadow: 0 4px 15px rgba(0,0,0,0.4);">
+  <p style="color: #fff; font-weight: bold; font-size: 16px;">⭐ <a href="https://github.com/MikeTheEngr/Repo1" style="color: #3b82f6;">Repo 1</a></p>
+  <p style="color: #d1d5db; font-size: 14px;">Brief description about this project. Shows what it’s about.</p>
 </div>
 
+<!-- Repo Card 2 -->
+<div style="flex: 1 1 250px; background: #1f2937; border-radius: 12px; padding: 15px; 
+            border: 2px solid #8b5cf6; box-shadow: 0 4px 15px rgba(0,0,0,0.4);">
+  <p style="color: #fff; font-weight: bold; font-size: 16px;">⭐ <a href="https://github.com/MikeTheEngr/Repo2" style="color: #8b5cf6;">Repo 2</a></p>
+  <p style="color: #d1d5db; font-size: 14px;">Brief description about this project. Shows what it’s about.</p>
+</div>
+
+<!-- Repo Card 3 -->
+<div style="flex: 1 1 250px; background: #1f2937; border-radius: 12px; padding: 15px; 
+            border: 2px solid #f59e0b; box-shadow: 0 4px 15px rgba(0,0,0,0.4);">
+  <p style="color: #fff; font-weight: bold; font-size: 16px;">⭐ <a href="https://github.com/MikeTheEngr/Repo3" style="color: #f59e0b;">Repo 3</a></p>
+  <p style="color: #d1d5db; font-size: 14px;">Brief description about this project. Shows what it’s about.</p>
+</div>
+
+</div>
 
 ---
 
