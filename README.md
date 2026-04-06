@@ -153,16 +153,22 @@
 
 ### 🔝 Top Contributed Repos
 
-<div align="center" style="border: 2px solid #1f2937; border-radius: 12px; padding: 20px; max-width: 900px; background-color: #111827;">
+<div align="center" style="max-width: 900px; padding: 20px; border-radius: 15px; 
+     background: #111827; 
+     border: 4px solid;
+     border-image-slice: 1;
+     border-width: 4px;
+     border-image-source: linear-gradient(45deg, #3b82f6, #8b5cf6, #ec4899, #f59e0b); 
+     box-shadow: 0 4px 15px rgba(0,0,0,0.4);">
 
-<p style="color: #fff; font-size: 14px; margin-bottom: 10px;">
-Here are some of the repositories I’ve contributed to the most. Click the repo name to check it out!
+<p style="color: #fff; font-size: 14px; margin-bottom: 15px;">
+Here are some of the repositories I’ve contributed to the most. Click the repo name to check them out!
 </p>
 
 <ul style="list-style-type: none; padding-left: 0; color: #fff; font-size: 16px;">
-  <li>⭐ <a href="https://github.com/MikeTheEngr/Repo1" style="color: #3b82f6;">Repo 1</a> – Short description about this project</li>
-  <li>⭐ <a href="https://github.com/MikeTheEngr/Repo2" style="color: #3b82f6;">Repo 2</a> – Short description about this project</li>
-  <li>⭐ <a href="https://github.com/MikeTheEngr/Repo3" style="color: #3b82f6;">Repo 3</a> – Short description about this project</li>
+  <li>⭐ <a href="https://github.com/MikeTheEngr/Repo1" style="color: #3b82f6;">Repo 1</a> – Brief description about this project</li>
+  <li>⭐ <a href="https://github.com/MikeTheEngr/Repo2" style="color: #8b5cf6;">Repo 2</a> – Brief description about this project</li>
+  <li>⭐ <a href="https://github.com/MikeTheEngr/Repo3" style="color: #f59e0b;">Repo 3</a> – Brief description about this project</li>
 </ul>
 
 </div>
