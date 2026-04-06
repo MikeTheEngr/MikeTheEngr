@@ -134,13 +134,16 @@
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=MikeTheEngr&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<!-- Rectangular GitHub Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=MikeTheEngr&theme=dark&no-bg=true&margin-w=4" 
+     alt="GitHub Trophies" 
+     style="width:100%; max-width:900px; height:180px; object-fit:cover;" />
 
 </div>
 
 ---
 
-### ✍️ Random Dev Quote
+### Quote of the day
 
 <div align="center">
 
