@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="[https://capsule-render.vercel.app/api?](https://pin.it/6WTshuv7o) type=venom&height=200&text=MikeTheEngr&fontSize=70&color=0:0d0221,50:0a0a2e,100:050518&fontColor=00f5ff&stroke=00f5ff&strokeWidth=2&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20AI%20Engineer&descSize=18&descAlignY=75&descFontColor=a78bfa" width="100%"/>
+<img src="[https://capsule-render.vercel.app/api?](https://pin.it/6WTshuv7o) />
 
 </div>
 
