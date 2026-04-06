@@ -153,9 +153,12 @@
 
 ### 🔝 Top Contributed Repo
 
+
 <div align="center">
 
-![](https://github-contributor-stats.vercel.app/api?username=MikeTheEngr&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<img src="https://github-contributor-stats.vercel.app/api?username=MikeTheEngr&limit=5&theme=dark&combine_all_yearly_contributions=true" 
+     alt="Top Contributed Repos" 
+     style="width:100%; max-width:900px; height:200px; object-fit:cover;" />
 
 </div>
 
