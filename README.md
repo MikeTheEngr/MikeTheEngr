@@ -143,31 +143,8 @@
 
 ---
 
-### 🔝 Top Contributed Repos
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=MikeTheEngr&theme=dark)
 
-<div align="center" style="max-width: 1000px; padding: 20px; 
-     background: #111827; border-radius: 15px; border: 4px solid; 
-     border-image-slice: 1; border-image-source: linear-gradient(90deg, #3b82f6, #8b5cf6, #f59e0b); 
-     box-shadow: 0 6px 20px rgba(0,0,0,0.5);">
-
-<table>
-<tr>
-<td align="center" style="padding: 10px;">
-⭐ <a href="https://github.com/MikeTheEngr/PHISHING-DETECTION-SYSTEM-" style="color:#3b82f6; font-weight:bold;">Repo 1</a><br>
-<span style="color:#d1d5db; font-size:12px;">Phishing Detection System using SVM Clustering </span>
-</td>
-<td align="center" style="padding: 10px;">
-⭐ <a href="https://github.com/MikeTheEngr/Repo2" style="color:#8b5cf6; font-weight:bold;">Repo 2</a><br>
-<span style="color:#d1d5db; font-size:12px;">TULKON coming soon </span>
-</td>
-<td align="center" style="padding: 10px;">
-⭐ <a href="https://github.com/MikeTheEngr/Repo3" style="color:#f59e0b; font-weight:bold;">Repo 3</a><br>
-<span style="color:#d1d5db; font-size:12px;"> on the way </span>
-</td>
-</tr>
-</table>
-
-</div>
 
 ---
 
