@@ -162,7 +162,7 @@
 <tr>
 <td align="center" style="padding: 10px;">
 ⭐ <a href="https://github.com/MikeTheEngr/PHISHING-DETECTION-SYSTEM-" style="color:#3b82f6; font-weight:bold;">Repo 1</a><br>
-<span style="color:#d1d5db; font-size:12px;">Phishing Detection System using SVM Clustering 1</span>
+<span style="color:#d1d5db; font-size:12px;">Phishing Detection System using SVM Clustering </span>
 </td>
 <td align="center" style="padding: 10px;">
 ⭐ <a href="https://github.com/MikeTheEngr/Repo2" style="color:#8b5cf6; font-weight:bold;">Repo 2</a><br>
