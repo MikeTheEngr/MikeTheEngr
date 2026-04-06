@@ -136,15 +136,16 @@
 ### Quote of the day
 
 <div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
-
+  <img src="./quote-card.svg" width="600"/>
 </div>
 
 ---
 
+<div align="center">
+     
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=MikeTheEngr&theme=dark)
 
+</div>
 
 ---
 
