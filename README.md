@@ -151,16 +151,11 @@
 
 ---
 
-### 🔝 Top Contributed Repo
+### 🔝 Top Contributed Repos
 
-
-<div align="center">
-
-<img src="https://github-contributor-stats.vercel.app/api?username=MikeTheEngr&limit=5&theme=dark&combine_all_yearly_contributions=true" 
-     alt="Top Contributed Repos" 
-     style="width:100%; max-width:900px; height:200px; object-fit:cover;" />
-
-</div>
+- [Repo 1](https://github.com/MikeTheEngr/Repo1) ⭐ 100
+- [Repo 2](https://github.com/MikeTheEngr/Repo2) ⭐ 85
+- [Repo 3](https://github.com/MikeTheEngr/Repo3) ⭐ 50
 
 ---
 
