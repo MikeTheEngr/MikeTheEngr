@@ -134,13 +134,12 @@
 
 <div align="center">
 
-<!-- Rectangular GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=MikeTheEngr&theme=dark&no-bg=true&margin-w=4" 
-     alt="GitHub Trophies" 
+<!-- Rectangular banner-style achievements card -->
+<img src="https://ghstats.dev/api/card?username=MikeTheEngr&theme=dark&show_icons=true" 
+     alt="GitHub Achievements & Top Languages" 
      style="width:100%; max-width:900px; height:180px; object-fit:cover;" />
 
 </div>
-
 ---
 
 ### Quote of the day
