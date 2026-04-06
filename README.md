@@ -1,7 +1,9 @@
 <div align="center">
 
-<!-- Full-Screen Width GIF Hero -->
-<img src="https://raw.githubusercontent.com/MikeTheEngr/MikeTheEngr/main/MIkeTheEngrr.gif" alt="Coding GIF" style="width:100vw; height:auto;" />
+<!-- Max-Stretched GIF Hero (Clickable Full-Size) -->
+<a href="https://raw.githubusercontent.com/MikeTheEngr/MikeTheEngr/main/MIkeTheEngrr.gif" target="_blank">
+  <img src="https://raw.githubusercontent.com/MikeTheEngr/MikeTheEngr/main/MIkeTheEngrr.gif" alt="Coding GIF" style="width:100%; max-width:none; height:auto;" />
+</a>
 
 </div>
 ---
@@ -12,8 +14,7 @@
 
 👨🏼‍💻 Passionate about building efficient, scalable solutions to real-world problems.
 
-Currently working on: **TULKON** the very first of its kind (stay tuned 👀).
-👯Open to collaborating on impactful projects.  
+Currently working on: **TULKON** the very first of its kind (stay tuned 👀) and also Open to collaborating on impactful projects.  
 🗒️ Side note: I build solutions for fun.
 
 ---
