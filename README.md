@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MikeTheEngr/MikeTheEngr/main/MIkeTheEngrr.gif" alt="Coding GIF" width="300"/>
+
+<img src="https://raw.githubusercontent.com/MikeTheEngr/MikeTheEngr/main/MIkeTheEngrr.gif" alt="Coding GIF" style="width:100%; height:auto;" />
+
 </div>
 
 ---
