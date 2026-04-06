@@ -12,7 +12,8 @@
 
 👨🏼‍💻 Passionate about building efficient, scalable solutions to real-world problems.
 
-I'm Currently working on: **TULKON** the very first of its kind (stay tuned 👀) and Open to collaborating on impactful projects.  
+Currently working on: **TULKON** the very first of its kind (stay tuned 👀).
+👯Open to collaborating on impactful projects.  
 🗒️ Side note: I build solutions for fun.
 
 ---
