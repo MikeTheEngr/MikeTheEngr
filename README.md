@@ -153,27 +153,28 @@
 
 ### 🔝 Top Contributed Repos
 
-<div align="center" style="max-width: 900px; display: flex; gap: 15px; justify-content: center; flex-wrap: wrap;">
+<div align="center" style="max-width: 1000px; padding: 20px; 
+     background: #111827; border-radius: 15px; border: 4px solid; 
+     border-image-slice: 1; border-image-source: linear-gradient(90deg, #3b82f6, #8b5cf6, #f59e0b); 
+     box-shadow: 0 6px 20px rgba(0,0,0,0.5);">
 
-<!-- Repo Card 1 -->
-<div style="flex: 1 1 250px; background: #1f2937; border-radius: 12px; padding: 15px; 
-            border: 2px solid #3b82f6; box-shadow: 0 4px 15px rgba(0,0,0,0.4);">
-  <p style="color: #fff; font-weight: bold; font-size: 16px;">⭐ <a href="https://github.com/MikeTheEngr/Repo1" style="color: #3b82f6;">Repo 1</a></p>
-  <p style="color: #d1d5db; font-size: 14px;">Brief description about this project. Shows what it’s about.</p>
-</div>
+<table>
+<tr>
+<td align="center" style="padding: 10px;">
+⭐ <a href="https://github.com/MikeTheEngr/Repo1" style="color:#3b82f6; font-weight:bold;">Repo 1</a><br>
+<span style="color:#d1d5db; font-size:12px;">Short description about Repo 1</span>
+</td>
+<td align="center" style="padding: 10px;">
+⭐ <a href="https://github.com/MikeTheEngr/Repo2" style="color:#8b5cf6; font-weight:bold;">Repo 2</a><br>
+<span style="color:#d1d5db; font-size:12px;">Short description about Repo 2</span>
+</td>
+<td align="center" style="padding: 10px;">
+⭐ <a href="https://github.com/MikeTheEngr/Repo3" style="color:#f59e0b; font-weight:bold;">Repo 3</a><br>
+<span style="color:#d1d5db; font-size:12px;">Short description about Repo 3</span>
+</td>
+</tr>
+</table>
 
-<!-- Repo Card 2 -->
-<div style="flex: 1 1 250px; background: #1f2937; border-radius: 12px; padding: 15px; 
-            border: 2px solid #8b5cf6; box-shadow: 0 4px 15px rgba(0,0,0,0.4);">
-  <p style="color: #fff; font-weight: bold; font-size: 16px;">⭐ <a href="https://github.com/MikeTheEngr/Repo2" style="color: #8b5cf6;">Repo 2</a></p>
-  <p style="color: #d1d5db; font-size: 14px;">Brief description about this project. Shows what it’s about.</p>
-</div>
-
-<!-- Repo Card 3 -->
-<div style="flex: 1 1 250px; background: #1f2937; border-radius: 12px; padding: 15px; 
-            border: 2px solid #f59e0b; box-shadow: 0 4px 15px rgba(0,0,0,0.4);">
-  <p style="color: #fff; font-weight: bold; font-size: 16px;">⭐ <a href="https://github.com/MikeTheEngr/Repo3" style="color: #f59e0b;">Repo 3</a></p>
-  <p style="color: #d1d5db; font-size: 14px;">Brief description about this project. Shows what it’s about.</p>
 </div>
 
 </div>
