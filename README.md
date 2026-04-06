@@ -1,7 +1,5 @@
 <div align="center">
-
-<img src="[https://capsule-render.vercel.app/api?](https://pin.it/6WTshuv7o) />
-
+  <img src="(https://pin.it/1AQsCyUCO)" alt="Coding GIF" width="300"/>
 </div>
 
 ---
