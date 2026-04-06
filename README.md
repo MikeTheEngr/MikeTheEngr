@@ -134,11 +134,11 @@
 ---
 
 ### Quote of the day
-
 <div align="center">
   <img 
-    src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&border=true&border_color=000000&quoteColor=f5fffa&authorColor=b8e6d1&bg_color=000000" 
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&border_color=000000&quoteColor=f5fffa&authorColor=b8e6d1&bg_color=000000" 
     width="100%" 
+    style="max-width:600px; height:auto;"
   />
 </div>
 
