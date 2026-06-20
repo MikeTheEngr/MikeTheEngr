@@ -1,4 +1,4 @@
-## welcome, i'm MikeTheEngr.⚡️
+## Welcome, i'm MikeTheEngr.⚡️
 
 <div align="center">
 
@@ -8,7 +8,7 @@
 </div>
 ---
 
-## I’m glad you’re here. Here’s what you should know about me.
+## Glad you’re here.  Here are what to know about me.
 
 **Full-Stack Developer | AI Engineer**
 
