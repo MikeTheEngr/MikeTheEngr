@@ -1,3 +1,5 @@
+## Hi, i'm MikeTheEngr
+
 <div align="center">
 
 <!-- Full-Screen Width GIF Hero -->
@@ -6,7 +8,7 @@
 </div>
 ---
 
-## About Me
+## Nice to meet you and heres a little about Me
 
 **Full-Stack Developer | AI Engineer**
 
