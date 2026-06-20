@@ -8,7 +8,7 @@
 </div>
 ---
 
-## Glad you’re here.  Here are what to know about me.
+## Glad you’re here. Curious about me?
 
 **Full-Stack Developer | AI Engineer**
 
