@@ -124,17 +124,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=MikeTheEngr&theme=dark&no-bg=true&margin-w=4" 
-     alt="GitHub Trophies" 
-     style="width:100%; max-width:1200px; height:250px; object-fit:cover;" />
-
-</div>
----
-
 ### Quote of the day
 
 <div align="center">
